@@ -30,8 +30,5 @@ A personal project where I'm exploring 3D web development and interactive websit
 
 [View Live Website](https://silentbit745.github.io/build-in-3d/)
 
-## 💻 Source Code
-
-[GitHub Repository](https://github.com/SilentBit745/build-in-3d)
 
 ---
